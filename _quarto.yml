@@ -1,8 +1,7 @@
 project:
   type: website
-  body-header: |
-    <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('/en/','/de/');" class="btn"><i class="fa fa-language"></i> Deutsch </button>
-
+  output-dir: ./
+ 
 profile:
   default: english
   group: [english, german]

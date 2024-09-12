@@ -17,7 +17,7 @@ website:
     right:
       #- text: Macroeconomics for Social Change
       #  href: macro_for_social_change.qmd
-     - text: About
+      - text: About
         href: quarto.qmd
       - text: Research
         href: quarto.qmd
